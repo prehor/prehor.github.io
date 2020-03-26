@@ -9,5 +9,5 @@ layout: home
 classes: wide
 header:
   overlay_image: https://source.unsplash.com/XTblNijO9IE/2560x400
-  caption: Photo by [Michael Dziedzic](https://unsplash.com/@lazycreekimages) on [Unsplash](https://unsplash.com)
+  caption: Photo by [Michael Dziedzic](https://unsplash.com/photos/XTblNijO9IE) on [Unsplash](https://unsplash.com)
 ---
