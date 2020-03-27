@@ -21,7 +21,13 @@ search_full_content: true
 # google_site_verification: # SEO Related
 
 # Social sharing
+
 # Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-316217-4"
+    anonymize_ip: true
 
 # Site author
 author:
