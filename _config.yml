@@ -28,6 +28,8 @@ analytics:
   google:
     tracking_id: "UA-316217-4"
     anonymize_ip: true
+head_scripts:
+  - https://cmp.osano.com/AzZcj2RuRfyUG1SCq/3dc429a1-adaa-409f-990c-2ff5842cc5dd/osano.js
 
 # Site author
 author:
@@ -72,10 +74,6 @@ incremental: false
 paginate_path: /page:num/
 paginate: 5 # amount of posts to show
 timezone: Europe/Prague
-
-# Custom scripts
-head_scripts:
-  - https://cmp.osano.com/AzZcj2RuRfyUG1SCq/5a673131-e2ba-4f1b-897f-f73cd045a767/osano.js
 
 # Plugins
 plugins:
