@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: My external memory
+title: My External Memory
 tagline: What I didn't write doesn't exist
 permalink: /
 layout: home
