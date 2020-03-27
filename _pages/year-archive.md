@@ -1,6 +1,6 @@
 ---
 title: Posts by Year
-permalink: /archive/
+permalink: /articles/
 layout: posts
 classes: wide
 header:
@@ -8,4 +8,4 @@ header:
   caption: Photo by [Tobias Fisher](https://unsplash.com/photos/ljp-ewA23lc) on [Unsplash](https://unsplash.com)
 ---
 
-### Posts by <i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags [here](/tags)
+### Posts by <i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags [here](/tags/)

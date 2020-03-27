@@ -8,4 +8,4 @@ header:
   caption: Photo by [Louie Martinez](https://unsplash.com/photos/J8YmnoMG2hg) on [Unsplash](https://unsplash.com)
 ---
 
-### Posts by <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Year [here](/archive)
+### Posts by <i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Year [here](/articles/)
