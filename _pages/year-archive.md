@@ -1,6 +1,6 @@
 ---
 title: Posts by Year
-permalink: /articles/
+permalink: /posts/
 layout: posts
 classes: wide
 header:
