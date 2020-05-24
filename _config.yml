@@ -35,7 +35,13 @@ head_scripts:
 author:
   name: Petr Řehoř
   avatar: /assets/images/prehor-avatar.png
-  bio: Any decent answer to an interesting question begins, "It depends..."
+  bio: |
+    <p style="margin-bottom:0;padding-bottom:0;">
+      Any decent answer to an interesting question begins, "It depends..."
+    </p>
+    <p style="margin-top:0;padding-top:0;text-align:right;">
+      -- <a href="https://twitter.com/kentbeck/status/596007846887628801">Kent Beck</a>
+    </p>
   location: Borovany, CZ
   github: prehor
   linkedin: prehor
