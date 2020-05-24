@@ -13,6 +13,10 @@ This website is completely static, and does not collect any information on its o
 
 This website is hosted on [GitHub Pages](https://pages.github.com/), and GitHub may collect additional information. Please refer to [GitHub's Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement) for more information.
 
+## Unsplash Pictures
+
+This website uses pictures from [Unsplash](https://unsplash.com), and Unsplash may collect additional information. Please refer to [Unsplash's Privacy Policy](https://unsplash.com/privacy) for more information.
+
 ## Google Analytics
 
 This website uses [Google Analytics](https://marketingplatform.google.com/about/analytics/) to collect information to help improve this website. Please refer to [Google Analytics Terms of Service](https://marketingplatform.google.com/about/analytics/terms/us/) for more information.
