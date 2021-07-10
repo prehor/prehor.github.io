@@ -9,8 +9,8 @@ tags:
   - Remote Desktop
   - Windows
 header:
-  overlay_image: https://source.unsplash.com/_X-f0s20tcM/2560x400
-  caption: Photo by [Taskin Ashiq](https://unsplash.com/photos/_X-f0s20tcM) on [Unsplash](https://unsplash.com)
+  overlay_image: https://source.unsplash.com/IL1qSqEMNBo/2560x400
+  caption: Photo by [Nhu Nguyen](https://unsplash.com/photos/IL1qSqEMNBo) on [Unsplash](https://unsplash.com)
 ---
 [Karabiner-Elements](https://karabiner-elements.pqrs.org) mappings ([control keys](https://github.com/prehor/dotfiles/blob/master/karabiner/assets/complex_modifications/microsoft-remote-desktop.json) and [czech language keys](https://github.com/prehor/dotfiles/blob/master/karabiner/assets/complex_modifications/microsoft-remote-desktop-czech.json)) that allow you to use the Apple macOS Czech keyboard layout in Windows when connected using Microsoft Remote Desktop.
 
