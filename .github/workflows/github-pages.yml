@@ -9,7 +9,19 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
+      # Checkout repository
       - uses: actions/checkout@v2
+
+      # Use GitHub Actions cache to shorten build times and decrease load on servers
+      # https://jdvp.medium.com/jekyll-github-actions-28a90a9d9bad
+      - uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # Build Jekyll site
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GHPAGES_TOKEN }}
