@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: My External Memory
-tagline: What I didn't write doesn't exist
+tagline: What is not written does not exist
 permalink: /
 layout: home
 classes: wide
