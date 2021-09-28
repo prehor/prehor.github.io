@@ -1,4 +1,4 @@
-JEKYLL_VERSION		?= 3.8
+JEKYLL_VERSION		?= 4
 JEKYLL_IMAGE		?= jekyll/builder
 
 GITHUB_USERNAME		= $(shell basename $$(dirname $$(git config --get remote.origin.url)))

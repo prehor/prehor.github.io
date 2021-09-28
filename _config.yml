@@ -57,8 +57,6 @@ exclude:
   - .gitignore
   - docker-compose.yml
   - CNAME
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - Makefile
   - README.md
@@ -83,10 +81,9 @@ timezone: Europe/Prague
 
 # Plugins
 plugins:
-  - github-pages
-  - jekyll-include-cache
   - jekyll-feed
   - jekyll-gist
+  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
