@@ -17,4 +17,6 @@ gem "tzinfo-data"
 group :jekyll_plugins do
   gem "activesupport", ">= 6.0.3.1"
   gem "jekyll-include-cache"
+  gem "kramdown", ">= 2.3.1"
+  gem "nokogiri", ">= 1.12.5"
 end
