@@ -56,7 +56,6 @@ include:
 exclude:
   - .gitignore
   - docker-compose.yml
-  - CNAME
   - LICENSE
   - Makefile
   - README.md
