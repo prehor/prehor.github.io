@@ -27,7 +27,7 @@ down:
 
 clean: down
 	@set -x; \
-	rm -rf _site .jekyll-metadata .sass-cache
+	rm -rf _site .jekyll-cache .jekyll-metadata .sass-cache
 
 bundle-clean: clean
 	@set -x; \
