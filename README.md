@@ -13,6 +13,11 @@
 
 * https://fontawesome.com/icons
 
+## Favicon
+
+* https://realfavicongenerator.net
+* https://github.com/mmistakes/minimal-mistakes/issues/949#issuecomment-293873689
+
 ## Images
 
 * https://source.unsplash.com
